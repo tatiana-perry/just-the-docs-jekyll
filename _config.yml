@@ -26,8 +26,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Can we get this to generate based on page. Currently a theme wide setting":
+    - "//github.com/tatiana-perry/just-the-docs-jekyll"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil

@@ -1,3 +1,23 @@
+What has been completed so far:
+- added three columns
+- ported in [Bulma CSS](https://bulma.io) since based on flexbox. Maybe Boostrap 4 instead. I think its fb now as well
+- moved toc to third column
+- added changelog at /changelog
+- fixed homepage from just-the-docs to / (root)
+
+
+To Do for Demo:
+[ ] - Code Samples
+[ ] - add theme content
+[ ] - API Reference
+-- [ ] Stoplight Embed
+-- [ ] Redoc (will need to generate code samples in various languages) added by hand for now
+[ ] - Tabs
+[ ] Home Page
+[ ] Tools Page
+[ ] Navigation Bar
+[ ]Fix toc. Controlled by css. 
+
 <p align="right">
     <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://travis-ci.com/pmarsceill/just-the-docs"><img src="https://travis-ci.com/pmarsceill/just-the-docs.svg?branch=master" alt="Build status"></a>
 </p>
